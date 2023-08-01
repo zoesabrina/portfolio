@@ -1,4 +1,4 @@
-# portfólio
+# Portfólio
 Site porfólio criado com Kick
 fontes usadas: Lato; Literata.
 
